@@ -34,5 +34,5 @@ Make sure the following are installed on your system:
 
 For any inquiries, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:hazriennurqistina@gmail.com)
+- **Email**: [hazriennurqistina@gmail.com](mailto:hazriennurqistina@gmail.com)
 - **GitHub**: [@hazriennurqistina](https://github.com/hazriennurqistina)
