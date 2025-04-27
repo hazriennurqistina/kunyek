@@ -29,3 +29,10 @@ Make sure the following are installed on your system:
 1. Clone the repository:
    ```bash
    git clone https://github.com/hazriennurqistina/kunyek.git
+
+   ## Contact 📬
+
+For any inquiries, feel free to reach out:
+
+- **Email**: [your-email@example.com](mailto:hazriennurqistina@gmail.com)
+- **GitHub**: [@hazriennurqistina](https://github.com/hazriennurqistina)
